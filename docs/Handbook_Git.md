@@ -1,13 +1,4 @@
 # Git Handbook
-## Índice
-[Introdução ao Git](#introducao-ao-git)
-[Instalação](#instalacao)
-[Configuração Inicial](#configuracao-inicial)
-[Comandos Básicos](#comandos-basicos)
-[Branches](#branches)
-[Trabalhando com Repositórios Remotos](#trabalhando-com-repositorios-remotos)
-[Resolvendo Conflitos](#resolvendo-conflitos)
-[Bons Práticas](#boas-praticas)
 
 ## Introdução ao Git
 Git é um sistema de controle de versão distribuído que permite o rastreamento de alterações no código-fonte durante o desenvolvimento de software.
