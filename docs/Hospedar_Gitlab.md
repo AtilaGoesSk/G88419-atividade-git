@@ -42,3 +42,15 @@ Para começar a trabalhar com o código localmente, você precisa clonar o repos
    Exemplo de comando para clonar com HTTPS:
    ```bash
    git clone https://gitlab.com/seunome/seuprojeto.git
+
+   ## Passo 4: Adicionando e Commitando Arquivos no Repositório
+
+Após clonar o repositório, você pode começar a trabalhar no código e adicionar arquivos. Para enviar essas alterações para o repositório GitLab, siga os passos abaixo:
+
+1. **Adicionar arquivos**: Crie ou edite arquivos no seu diretório local.
+
+2. **Adicionar os arquivos ao Git**:
+   Use o comando `git add` para adicionar os arquivos que foram modificados ao índice para o commit.
+   ```bash
+   git add .
+
