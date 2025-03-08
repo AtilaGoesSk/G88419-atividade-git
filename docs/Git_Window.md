@@ -1,4 +1,4 @@
-#Passo a passo para instalação do Git no Windows#
+#Passo a passo para instalação do Git no Windows
 
 * **Para instalar o Git no Windows, o primeiro passo é acessar o site oficial do Git, que é https://git-scm.com, e fazer o download do instalador para o seu sistema operacional. O site geralmente detecta automaticamente a versão correta do instalador para o seu Windows. Após o download, abra o arquivo executável (.exe) para iniciar o processo de instalação.** *
 
