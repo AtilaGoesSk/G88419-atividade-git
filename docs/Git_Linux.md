@@ -1,6 +1,6 @@
 **# Passo a passo para a instalação do Git no Linux**
 
-* **Para instalar o Git no Linux, o procedimento pode variar conforme a distribuição que você está utilizando. Primeiramente, é importante atualizar o sistema antes de instalar qualquer pacote. Para isso, abra o terminal e use o comando correspondente à sua distribuição. No Ubuntu ou Debian, use sudo apt update seguido de sudo apt upgrade. No Fedora, basta rodar sudo dnf update. Em distribuições baseadas no Red Hat, como o CentOS ou RHEL, o comando será sudo yum update. Para usuários de Arch Linux, o comando é sudo pacman -Syu.** *
+~ * **Para instalar o Git no Linux, o procedimento pode variar conforme a distribuição que você está utilizando. Primeiramente, é importante atualizar o sistema antes de instalar qualquer pacote. Para isso, abra o terminal e use o comando correspondente à sua distribuição. No Ubuntu ou Debian, use sudo apt update seguido de sudo apt upgrade. No Fedora, basta rodar sudo dnf update. Em distribuições baseadas no Red Hat, como o CentOS ou RHEL, o comando será sudo yum update. Para usuários de Arch Linux, o comando é sudo pacman -Syu.** * ~
 
 * **Após atualizar o sistema, você pode instalar o Git utilizando o gerenciador de pacotes da sua distribuição. No Ubuntu ou Debian, o Git pode ser instalado diretamente com o comando sudo apt install git. No Fedora, o comando é sudo dnf install git. Para distribuições CentOS ou RHEL, use sudo yum install git, e no Arch Linux, o comando é sudo pacman -S git.** *
 
